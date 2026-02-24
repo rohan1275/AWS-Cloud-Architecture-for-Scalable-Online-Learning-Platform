@@ -175,24 +175,6 @@ Result: Platform accessible, scalable, and fault-tolerant.
 * Real-time monitoring
 * Cost-efficient architecture
 
----
-
-## 📂 Repository Structure
-
-```
-AWS-Online-Learning-Platform/
-│
-├── README.md
-├── architecture-diagram.png
-├── report.pdf
-└── screenshots/
-    ├── vpc.png
-    ├── ec2.png
-    ├── alb.png
-    ├── autoscaling.png
-    ├── s3.png
-    └── cloudfront.png
-```
 
 ---
 
